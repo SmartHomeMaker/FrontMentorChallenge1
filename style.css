@@ -67,12 +67,14 @@ img{
   left:100px;
   bottom:0;
   font-weight:700;
+  font-size:1.5rem;
 }
 .detail-column{
   display:inline-block;
   position:absolute;
   font-color:hsl(240, 18%, 77%);
   font-weight:300;
+  font-size:1.5rem;
   left:350px;
   bottom:0;
 }
