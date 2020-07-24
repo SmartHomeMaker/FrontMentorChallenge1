@@ -17,7 +17,7 @@ img{
   height:600px;
   display: inline-block;
   position:fixed;
-  background-image: url(".pattern-bg.svg");
+  background-image: url("./pattern-bg.svg");
   background-repeat:no-repeat ;
   background-size:contain;
   right:10%;
